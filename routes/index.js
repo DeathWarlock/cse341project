@@ -1,8 +1,9 @@
-const routes = require('express').Router();
+/*routes.get('/', myController.awesomeFunction);
+routes.get('/awesome', myController.returnAnotherPerson);*/
 
-const myController = require('../controllers');
+const express = require('express');
+const router = express.Router();
 
-routes.get('/', myController.awesomeFunction);
-routes.get('/awesome', myController.returnAnotherPerson);
+router.use('/contacts', require('./contacts'))
 
-module.exports = routes;
+module.exports = router;

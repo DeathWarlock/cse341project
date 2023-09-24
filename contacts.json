@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Cecília",
+    "lastName": "Merino",
+    "email": "ceciliamerino@.angola.com",
+    "favoriteColor": "Green",
+    "birthday": "25/12/1985"
+  },
+  "contact2": {
+    "firstName": "Melanie",
+    "lastName": "Merino",
+    "email": "melaniemerino@angola.com",
+    "favoriteColor": "Purple",
+    "birthday": "02/07/2016"
+  },
+  "contact3": {
+    "firstName": "Melissa",
+    "lastName": "Merino",
+    "email": "melissamerino@C@angola.com",
+    "favoriteColor": "Yellow",
+    "birthday": "08/03/2019"
+  }
+}
