@@ -8,7 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "swagger-autogen": "node ./swagger.js"
+    "swagger-autogen": "node ./swagger.js",
+    "swagger": "node ./swagger.js"
   },
   "repository": {
     "type": "git",
